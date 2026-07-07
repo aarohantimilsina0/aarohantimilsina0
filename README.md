@@ -1,4 +1,4 @@
-#First-year IT student, open to internships
+First-year IT student, open to internships
 
 <!--
 **aarohantimilsina0/aarohantimilsina0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
