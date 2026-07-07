@@ -2,7 +2,7 @@
 
 First-year Bachelor of IT student in Melbourne, building things to learn how they work.
 
-🔗 **Portfolio:**  https://aarohantimilsina0.github.io/Portfolio-/
+🔗 **Portfolio:** https://aarohantimilsina0.github.io/Portfolio-/
 💼 **Looking for:** IT internships / entry-level roles
 
 **Currently building:** The Fork & Pen — a full-stack PHP/MySQL food review app
