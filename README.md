@@ -1,4 +1,11 @@
-First-year IT student, open to internships
+### Hi, I'm Aarohan 👋
+
+First-year Bachelor of IT student in Melbourne, building things to learn how they work.
+
+🔗 **Portfolio:**  https://aarohantimilsina0.github.io/Portfolio-/
+💼 **Looking for:** IT internships / entry-level roles
+
+**Currently building:** The Fork & Pen — a full-stack PHP/MySQL food review app
 
 <!--
 **aarohantimilsina0/aarohantimilsina0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
